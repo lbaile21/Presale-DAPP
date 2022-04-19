@@ -2,7 +2,7 @@
   "name": "presaledapp",
   "version": "1.0.0",
   "description": "",
-  "main": "node ./Presale-DAPP/frontend/index.js",
+  "main": "./Presale-DAPP/frontend/index.js",
   "scripts": {
     "start": "node ./Presale-DAPP/frontend/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
